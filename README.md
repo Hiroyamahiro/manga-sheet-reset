@@ -1,21 +1,26 @@
 # Manga Sheet Reset
 
 Google スプレッドシート用 入力初期化ツール  
-This tool resets input fields in specific sheets.
 
 ---
 
-## 📄 Privacy Policy
-Manga Sheet Reset does not collect, store, or share personal information.
-The app only accesses the currently opened Google Spreadsheet and resets the values within specified ranges.
-No other Drive files, emails, or profile data are accessed.
+# プライバシーポリシー
+
+本ツールは、ユーザーの個人情報を収集・保存・共有することはありません。
+本ツールがアクセスするのは、ユーザー自身が開いているスプレッドシートの範囲のみです。
+
+本ツールは、他のファイルやメール、アカウント情報にはアクセスしません。
+
 
 ---
 
-## 📘 Terms of Use
-Use this tool at your own risk.
-The developer is not responsible for any damages that result from the use of this app.
-The app may change or stop without notice.
+# 利用規約
+
+本ツール「Manga Sheet Reset」は、Google スプレッドシートの入力内容を初期化するためのツールです。
+利用者は自己責任で本ツールを利用してください。
+
+本ツールの利用により生じたいかなる損害についても、開発者は責任を負いません。
+本ツールは予告なく変更・停止される場合があります。
 
 ---
 
